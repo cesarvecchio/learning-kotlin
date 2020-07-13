@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">César Alves Vecchio</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi, my name is Cesar.
+        \n\n\n\ndadadad
+        \n\n dfgbfgfgfbhfgfgf
+        dvbdbfdbdbdbdbdbdbdbdbdnddn
+        \n vddddddddddddddddddddddddddddddddddddddddddd
+        \n dfvvdvdvdv d
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
